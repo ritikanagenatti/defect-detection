@@ -1,2 +1,2 @@
 # defect-detection
-defect detection system 
+defect detection for inspection 
