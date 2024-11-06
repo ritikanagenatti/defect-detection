@@ -1,0 +1,5 @@
+# names: ["contact_direction_change", "deflashing", "short_mould", "DAP_powder", "contact_damage_pocket"]
+names: ["contact_direction_change", "deflashing", "short_mould", "DAP_powder", "contact_damage_pocket"]
+nc: 5
+train: ../yolo_data/train
+val: ../yolo_data/val
